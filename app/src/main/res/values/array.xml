@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="email">
+        <item>직접입력</item>
+        <item>naver.com</item>
+        <item>gmail.com</item>
+        <item>kakao.com</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="600dp"
+    tools:context=".FeedActivity">
+
+    <Button
+        android:id="@+id/Bt_FeederName"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="16dp"
+        android:text="내 닉네임"
+        app:layout_constraintBottom_toBottomOf="@+id/Ib_FeederImage"
+        app:layout_constraintStart_toEndOf="@+id/Ib_FeederImage"
+        app:layout_constraintTop_toTopOf="@+id/Ib_FeederImage" />
+
+    <ImageButton
+        android:id="@+id/Ib_FeederImage"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <ImageButton
+        android:id="@+id/Ib_LikeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_gravity="bottom"
+        android:layout_marginStart="16dp"
+        app:layout_constraintBottom_toBottomOf="@+id/Bt_ViewCommnent"
+        app:layout_constraintStart_toEndOf="@+id/Bt_ViewCommnent"
+        app:layout_constraintTop_toTopOf="@+id/Bt_ViewCommnent"
+        app:srcCompat="@android:drawable/btn_star" />
+
+    <ImageView
+        android:id="@+id/Iv_Feedimage"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintTop_toBottomOf="@+id/Ib_FeederImage"
+        tools:layout_editor_absoluteX="0dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/Tv_Like"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:gravity="right"
+        android:text="좋아요 10 개 "
+        app:layout_constraintBottom_toBottomOf="@+id/Tv_Time"
+        app:layout_constraintEnd_toEndOf="@+id/Tv_Comment"
+        app:layout_constraintStart_toStartOf="@+id/Tv_Comment"
+        app:layout_constraintTop_toTopOf="@+id/Tv_Time" />
+
+    <TextView
+        android:id="@+id/Tv_Time"
+        android:layout_width="0dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="16dp"
+        android:text="8분전"
+        app:layout_constraintEnd_toEndOf="@+id/Tv_CommentNickname"
+        app:layout_constraintStart_toStartOf="@+id/Tv_CommentNickname"
+        app:layout_constraintTop_toBottomOf="@+id/Tv_CommentNickname" />
+
+    <TextView
+        android:id="@+id/Tv_CommentNickname"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="32dp"
+        android:gravity="center_vertical"
+        android:text="nickname"
+        app:layout_constraintEnd_toEndOf="@+id/Ib_FeederImage"
+        app:layout_constraintStart_toStartOf="@+id/Ib_FeederImage"
+        app:layout_constraintTop_toBottomOf="@+id/Iv_Feedimage" />
+
+    <TextView
+        android:id="@+id/Tv_Comment"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:gravity="center_vertical"
+        android:text="brabrabbrabbaraa ha ha ha"
+        app:layout_constraintBottom_toBottomOf="@+id/Tv_CommentNickname"
+        app:layout_constraintEnd_toEndOf="@+id/Iv_Feedimage"
+        app:layout_constraintStart_toEndOf="@+id/Tv_CommentNickname"
+        app:layout_constraintTop_toTopOf="@+id/Tv_CommentNickname" />
+
+    <Button
+        android:id="@+id/Bt_ViewCommnent"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:text="댓글보기"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/Tv_Time"
+        app:layout_constraintStart_toStartOf="@+id/Tv_Time"
+        app:layout_constraintTop_toBottomOf="@+id/Tv_Time" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_feed.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_feed_comment.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_feed_recycler.xml" value="0.4" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_feed_upload.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_home.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_home_exercise.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_home_exercise_andbreak.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_home_exercise_breacktime.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_login.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_login_entry.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main10.xml" value="0.4" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main11.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main12.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main13.xml" value="0.4" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main2.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main3.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main4.xml" value="0.4" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main5.xml" value="0.4" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main6.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main7.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main8.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main9.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_prepare2_linear.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_record.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_servey_exercise.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_set.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_survey.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_todayexercise.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/commentforcommentlayout.xml" value="0.4" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/commentlayout.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/feed_constraint.xml" value="0.176" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/home_constraint.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/home_exercise2.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/home_exercise_break.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/home_exercise_constraint.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/home_linear1.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/item_feed.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/login_constraint1.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/login_setnickname_constraint1.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/prepare3.xml" value="0.176" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/prepare_Linear1.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/prepare_linear1.xml" value="0.176" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/profile_constraint1.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/profile_image.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/profile_practice1.xml" value="0.12335359675785208" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/record_linear.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/set_.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/start_breaktime.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/y_changelayout1.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/y_commentlayout.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/y_replacelayout.xml" value="0.12335359675785208" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/z_feed3.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/z_home.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/z_home_exercise.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/z_home_exercise2.xml" value="0.4" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/z_profile.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/z_record.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/z_servey.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/z_z.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

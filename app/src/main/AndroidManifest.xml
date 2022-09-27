@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapplication">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication">
+        <activity
+            android:name=".FeedCommentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FeedUploadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TodayExerciseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FeedRecyclerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity_exerciseAndbreak"
+            android:exported="false" />
+        <activity
+            android:name=".ProfileActivity_imageviewpager"
+            android:exported="false" />
+        <activity
+            android:name=".SurveyActivity_exercise"
+            android:exported="false" />
+        <activity
+            android:name=".z_practice_servey"
+            android:exported="false" />
+        <activity
+            android:name=".SetActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity_exercise"
+            android:exported="false" />
+        <activity
+            android:name=".y_changelayout"
+            android:exported="false" />
+        <activity
+            android:name=".FeedActivity"
+            android:exported="false" />
+        <activity
+            android:name=".z_practice_feed3"
+            android:exported="false" />
+        <activity
+            android:name=".RecordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity_nickname"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".z_practice_profile"
+            android:exported="false" />
+        <activity
+            android:name=".z_practice_home_exercise2"
+            android:exported="false" />
+        <activity
+            android:name=".y_exercise_replacelayout"
+            android:exported="false" />
+        <activity
+            android:name=".Home_exercise_BreacktimeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".z_practice_z"
+            android:exported="false" />
+        <activity
+            android:name=".z_pratice_home_exercise"
+            android:exported="false" />
+        <activity
+            android:name=".z_practice_home"
+            android:exported="false" />
+        <activity
+            android:name=".ui.login.LoginActivity"
+            android:exported="false"
+            android:label="@string/title_activity_login" />
+        <activity
+            android:name=".z_practice_record"
+            android:exported="false" />
+        <activity
+            android:name=".y_commentLayout"
+            android:exported="false" />
+        <activity
+            android:name=".z_practice_feed2"
+            android:exported="false" />
+        <activity
+            android:name=".z_practice_feed"
+            android:exported="false" />
+        <activity
+            android:name=".SurveyActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
